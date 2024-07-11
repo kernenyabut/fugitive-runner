@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Music/the simplest song ever.ogg</SourceFile>
+  <SourceTime>2019-11-06T10:27:31.4939714-05:00</SourceTime>
+  <DestFile>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/Content/Music/MenuMusic.xnb</DestFile>
+  <DestTime>2019-11-07T20:20:53.9187871-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/Content/Music/MenuMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

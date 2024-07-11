@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/gameOverScore.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/gameOverTitle.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/highScore.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/hudFont.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Bat.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_01.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_01-1.png.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_07.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_background_night 1.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_background_night 2.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/city_background_night.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Credit Scene.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Help Component.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/10.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/11.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/12.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/6.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/7.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/8.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jump/9.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/jumping/14.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_20.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_21.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_22.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_24.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_25.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_26.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_31.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_32.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/obstacles/city_34.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/10.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/11.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/12.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/6.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/7.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/8.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/running/9.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Title Screen Full.png</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Music/the simplest song ever.ogg</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Music/wyver9_Fast Level.wav</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/SoundEffects/Hit 1.mp3</File>
+    <File>C:/Users/Minec/Documents/College Work/Game Programming/KYabutFinalProject/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/SoundEffects/jump_07.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/city_03.png</File>
+    <File>Images/city_02.png</File>
+    <File>Images/city_background 1.png</File>
+    <File>Images/city_background 2.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/Help Scene.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/jumping/jump.png</File>
+    <File>Images/obstacles/obstacle1.png</File>
+    <File>Images/obstacles/obstacle2.png</File>
+    <File>Images/obstacles/obstacle3.png</File>
+    <File>Images/obstacles/obstacle3.png</File>
+    <File>Images/obstacles/obstacle4.png</File>
+    <File>Images/obstacles/obstacle5.png</File>
+    <File>Images/obstacles/obstacle6.png</File>
+    <File>Images/obstacles/obstacle7.png</File>
+    <File>Images/obstacles/obstacle8.png</File>
+    <File>Images/running/running5.png</File>
+    <File>Images/running/running6.png</File>
+    <File>Images/running/running7.png</File>
+    <File>Images/running/running1.png</File>
+    <File>Images/running/running2.png</File>
+    <File>Images/running/running3.png</File>
+    <File>Images/running/running4.png</File>
+    <File xsi:nil="true" />
+    <File>Music/MenuMusic.ogg</File>
+    <File>Music/LevelMusic.wav</File>
+    <File>SoundEffects/Hit.mp3</File>
+    <File>SoundEffects/jump.wav</File>
+  </DestFiles>
+</SourceFileCollection>

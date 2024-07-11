@@ -1,0 +1,76 @@
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_background_night.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Title Screen Full.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Music\LevelMusic.wma
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Music\LevelMusic.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Music\MenuMusic.wma
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Music\MenuMusic.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_background_night 1.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_background_night 2.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_01.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_02.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_03.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running1.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running2.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running3.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running4.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running5.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running6.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\running\running7.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jumping\jump.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\10.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\11.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\12.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\6.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\7.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\8.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\jump\9.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\SoundEffects\Hit.wma
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\SoundEffects\Hit.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\SoundEffects\jump.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle1.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle2.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle3.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle4.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle5.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle6.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle7.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\obstacles\obstacle8.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\FugitiveRunner.exe
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\FugitiveRunner.pdb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FugitiveRunner.exe
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FugitiveRunner.pdb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hudFont.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\gameOverScore.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\gameOverTitle.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\highScore.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Credit Scene.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Help Scene.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\FugitiveRunner.exe.manifest
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\FugitiveRunner.application
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FugitiveRunner.exe.manifest
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FugitiveRunner.application
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_background 1.xnb
+C:\Users\Minec\Documents\College Work\Game Programming\KYabutFinalProject\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\city_background 2.xnb
